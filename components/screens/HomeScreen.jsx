@@ -1,4 +1,4 @@
-import styles from "../style-sheets/app-style"
+import styles from "../../style-sheets/app-style"
 
 export default function HomeScreen() {
     return (
